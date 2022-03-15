@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "fb676c1b-0e7f-4a93-a2be-afa52f5ebc9d",
+		"name": "NewsCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Feed 1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Feed 2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
